@@ -94,21 +94,21 @@ An **interactive Power BI dashboard** was created to visualize insights from SQL
 ---
 
 ## 🗂️ Folder Structure
-Customer_Shopping_Behavior_Analysis/
+**Customer_Shopping_Behavior_Analysis/**
 │
-├── data/
+├── **data/**
 │ └── customer_shopping_behavior.csv
 │
-├── notebooks/
+├── **notebooks/**
 │ └── Customer_Shopping_Behaviour_Analysis.ipynb
 │
-├── sql/
+├── **sql/**
 │ └── customer_behaviour_sql_query.sql
 │
-├── dashboard/
+├── **dashboard/**
 │ └── dashboard.pbix
 │
-├── reports/
+├── **reports/**
 │ └── Customer_Shopping_Behaviour_Analysis.pdf
 │
 └── README.md
