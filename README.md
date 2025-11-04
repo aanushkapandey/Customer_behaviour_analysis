@@ -90,47 +90,18 @@ Customer_Shopping_Behavior_Analysis/
 │   ├── customer_shopping_behavior.csv
 │
 ├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_analysis.ipynb
+│   ├── Customer_Shopping_behaviour_Analysis.ipynb
 │
 ├── sql/
-│   ├── business_queries.sql
+│   ├── customer_behaviour_sql_query.sql
 │
 ├── dashboard/
-│   ├── PowerBI_Dashboard.pbix
+│   ├── dashboard.pbix
 │
 ├── reports/
-│   ├── insights_summary.pdf
+│   ├── Customer Shopping behaviour Analysis.pdf
 │
 └── README.md
-
-🚀 How to Run the Project
-
-Clone Repository
-
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
-cd customer-shopping-behavior-analysis
-
-
-Install Dependencies
-
-pip install pandas numpy seaborn matplotlib psycopg2
-
-
-Run Python Scripts
-
-python notebooks/data_cleaning.ipynb
-
-
-Run SQL Queries
-
-Import the cleaned_data table into PostgreSQL.
-
-Execute queries from /sql/business_queries.sql.
-
-Open Dashboard
-
-Load the .pbix file in Power BI Desktop to explore visuals.
 
 🏁 Conclusion
 
