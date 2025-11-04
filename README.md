@@ -94,29 +94,27 @@ An **interactive Power BI dashboard** was created to visualize insights from SQL
 ---
 
 ## 🗂️ Folder Structure
+
+
 Customer_Shopping_Behavior_Analysis/
+│
+├── data/
+│   └── customer_shopping_behavior.csv
+│
+├── notebooks/
+│   └── Customer_Shopping_Behaviour_Analysis.ipynb
+│
+├── sql/
+│   └── customer_behaviour_sql_query.sql
+│
+├── dashboard/
+│   └── dashboard.pbix
+│
+├── reports/
+│   └── Customer_Shopping_Behaviour_Analysis.pdf
+│
+└── README.md
 
-data/
-
-customer_shopping_behavior.csv
-
-notebooks/
-
-Customer_Shopping_Behaviour_Analysis.ipynb
-
-sql/
-
-customer_behaviour_sql_query.sql
-
-dashboard/
-
-dashboard.pbix
-
-reports/
-
-Customer_Shopping_Behaviour_Analysis.pdf
-
-README.md
 
 ## 🏁 Conclusion
 This project demonstrates how **data-driven insights** can shape strategic business decisions in the retail and e-commerce industry.  
